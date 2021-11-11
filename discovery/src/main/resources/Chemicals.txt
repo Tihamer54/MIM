@@ -1,0 +1,200 @@
+Acetic acid
+Acetone
+Acetylene
+Acetylsalicylic acid
+Aluminium
+Aluminium hydroxide
+Aluminium oxide
+Aluminium ammonium sulfate
+Aluminium potassium sulfate
+Aluminium sulfate
+Ammonia
+Ammonium bicarbonate
+Ammonium bifluoride
+Ammonium bromide
+Ammonium carbonate
+Ammonium chloride
+Ammonium nitrate
+Ammonium persulfate
+Ammonium phosphate
+Ammonium sulfate
+Amylose
+Anthocyanin
+Argon
+Ascorbic acid
+barium carbonate
+barium sulfate
+benzoyl peroxide
+bismuth
+bismuth subsalicylate
+boric acid
+bromothymol blue
+butane
+caffeine
+cadmium sulfide
+calcium carbide
+calcium carbonate
+
+calcium chloride
+calcium hydroxide
+calcium hypochlorite
+calcium nitrate
+calcium oxide
+calcium phosphate, monobasic
+calcium sulfate anhydrous
+calcium sulfate, hemihydrate
+calcium sulfate dihydrate
+camphor
+carbon
+carbon dioxide
+carbonic acid
+carrageenan
+cellulose
+chromium oxide
+citric acid
+copper
+copper naphthenate
+copper sulfate
+copper sulfate pentahydrate
+cyanuric acid
+dextromethorphan hydrobromide
+dextrose
+dichloromethane
+dimethyl sulfoxide
+diphenhydramine
+ethanol/ethyl alcohol
+ether
+ethylene glycol
+eugenol
+formic acid
+fructose
+glucose
+glycerin
+glycerol
+gold
+gum Arabic
+helium
+hexamine
+hydrogen gas
+hydrochloric acid
+hydrofluoric acid
+hypochlorous acid
+hydroquinone
+hydrogen peroxide
+iodine
+iron
+ferric chloride
+ferric oxide
+ferrous ferric oxide
+iron sulfate
+kerosene
+lactic acid
+lanthanum chloride
+latex
+lead
+linseed oil
+Lithium
+magnesium
+magnesium carbonate
+magnesium hydroxide
+magnesium silicate
+magnesium sulfate
+magnesium chloride
+manganese dioxide
+melatonin
+mercury
+methane
+methanol
+methyl ethyl ketone
+methyl ethyl ketone peroxide
+methyl isobutyl ketone
+methylene blue
+methylene chloride
+methyl salicylate
+mineral oil
+monosodium glutamate
+naphthalene
+nickel
+nitrogen
+nitrous oxide
+oxalic acid
+oxygen
+para-dichlorobenzene
+paraffin
+phenol
+phenolphthalein
+phenol red
+phosphoric acid
+phosphorus
+polystyrene
+polyurethane foam
+potassium aluminium sulfate
+potassium bitartrate
+potassium bromide
+potassium carbonate
+potassium chloride
+potassium chromium sulfate
+potassium dichromate
+potassium hydroxide
+potassium iodide
+potassium iron hexacyanoferrate
+potassium metabisulfite
+potassium nitrate
+potassium permanganate
+potassium sodium tartrate
+propane
+2-propanol
+propylhexedrine
+pseudoephedrine
+silicon carbide
+silicon
+silicon dioxide
+silver
+sodium acetate
+sodium borate
+sodium bicarbonate
+disodium phosphate
+sodium bisulfate
+sodium bromide
+sodium carbonate
+sodium chlorate
+sodium chloride
+sodium fluoride
+sodium hexametaphosphate
+sodium hydroxide
+sodium hypochlorite
+sodium nitrate
+sodium metabisulfite
+sodium percarbonate
+sodium phosphate
+sodium silicate
+sodium sulfite
+sodium sulfate
+sodium tetraborate decahydrate
+sodium thiosulfate
+stearic acid
+Steel
+sucrose
+sulfur
+sulfuric acid
+tannic acid
+tartaric acid
+tetrachloroethylene
+thymolphthalein
+titanium dioxide
+1,1,1 trichloroethane
+trichloroisocyanuric acid
+1,1,1,2 tetrafluoroethane
+thiourea
+toluene
+trichloroethylene
+trioxane
+tungsten
+turpentine
+urea
+water
+xylene
+zinc
+zinc chloride
+zinc oxide
+zinc sulfate
