@@ -21,27 +21,19 @@ At this point, the getMetaRules() function can exhaustively generate three diffe
 More generally, the practical application for this tool would be to help us discover new and interesting things; i.e., any kind of knowledge-intensive activity.
 This includes practical uses that popular AI/ML techniques can be appplied to:
       
-      1. Science discovery (including drug discovery)
-      
-      2. Fraud detection
-      
-      3. Policy improvment
+1. Science discovery (including drug discovery)
+2. Fraud detection
+3. Policy improvment
 
 The MIM project may need to borrow ideas from the following (often overlapping) fields:
       
-      Data mining to classify, cluster, and segment the data and help find associations and rules in the data that expose correlations and other interesting patterns that identify causal chains.
-      
-      Expert systems to encode known expertise (e.g. Drools).  As usual, this means finding the right level of knowledge representation.
-      
-      Pattern recognition to detect approximate classes, clusters, or patterns-- either automatically (unsupervised) or to match given inputs.
-      
-      Machine learning to automatically identify characteristics of specific targets.
-      
-      Neural nets to independently generate classification, clustering, generalization, and forecasting. However, we must keep in mind that such "solutions" are NOT truth preserving. and they require lots of data.
-      
-      HOL (Higher Order Logic) Theorem Provers are very useful in reducing the risk of incorrect implementations. However, they are also VERY expensive-by any measure whatsoever (except for the software; that's free) and extremely difficult to use.
-      
-      Also: Link analysis, Bayesian networks, Decision Theory, sequence matching, and the system properties approach.
+1. Data mining -- to classify, cluster, and segment the data and help find associations and rules in the data that expose correlations and other interesting patterns that identify causal chains.
+2. Expert systems to encode known expertise (e.g. Drools).  As usual, this means finding the right level of knowledge representation.
+3. Pattern recognition to detect approximate classes, clusters, or patterns-- either automatically (unsupervised) or to match given inputs.
+4. Machine learning to automatically identify characteristics of specific targets.
+5. Neural nets to independently generate classification, clustering, generalization, and forecasting. However, we must keep in mind that such "solutions" are NOT truth preserving. and they require lots of data.
+6. HOL (Higher Order Logic) Theorem Provers are very useful in reducing the risk of incorrect implementations. However, they are also VERY expensive-by any measure whatsoever (except for the software; that's free) and extremely difficult to use.
+7. Other-- Link analysis, Bayesian networks, Decision Theory, sequence matching, and the system properties approach.
       
 TODO: Number of rules fired per number is ok for first cut, but some rules are cooler than others.
       Give weights to more elegant rules. What makes something elegant? Simple, beautiful (symetric), patterns, maximally unfolding?
