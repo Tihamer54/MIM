@@ -13,5 +13,8 @@ There are lots of exploratory code in other areas in this project, but the impor
 
 MainRunner uses JEL to evaluate the generated rules with possibly interesting numbers.
 Unfortunately, JEL has not been mavenized yet (on my TODO list), and so you may need to manually import it
-from https://mvnrepository.com/artifact/org.gnu/jel and then add it to your .m2 directory.
+from https://mvnrepository.com/artifact/org.gnu/jel and then add it to your .m2 directory 
+(e.g. for Windows: C:\Users\yourusername\.m2\repository\org\gnu\jel\2.0.1).
+Alternatively, you might want to get the latest and greatest (2.1.1 as of this writing; from https://www.gnu.org/software/jel/), 
+compile it into your own jar file, and then manually add it to your .m2 directory.
 
