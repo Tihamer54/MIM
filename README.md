@@ -1,10 +1,13 @@
 # MIM
-Most Interesting Machine (hopefully an improvement on Doug Lenat's AM)
+Most Interesting Machine --hopefully an improvement on Doug Lenat's AM (Automated Mathematician) 
+See https://www.researchgate.net/publication/221605660_Why_AM_and_Eurisko_Appear_to_Work
 
 Many years ago, Doug Lenat wrote a LISP program that replicated and evolved, and tried to find truth about the world of Mathematics using random mutations.
 It discovered prime numbers and Goldbach's conjecture. But it depended on the random intersections of LISP functions with mathematical ideas that Lenat pruned and renamed.
 IMHO, AM relied too much on human evolutinary selection *after* replication and mutation.  
-What MIM is trying to explore is whether early intervention by a Software Engineer can make the mutation smarter.
+What MIM is trying to explore is whether early intervention by a Software Engineer can make an exhaustive searcher smarter, 
+perhaps by unfolding an algorithm in a way analogous to the way L-Systems generate Fibbonacci words.
+(TODO: Possibly map functions/variables to nodes and branches of an L-system graph; see LSystemApplet.java)
 
 The toy problem it explores is: Why is a number on a digital clock is interesting?
 More generally, what kind of abstract representation of numbers and expressions can be used in an exhaustive search of a rule characterization n-space 
@@ -20,7 +23,7 @@ TODO: Number of rules fired per number is ok for first cut, but some rules are c
       Don't be boring.  +1 is ok, but not too often. +7 is boring pretty quick. 
       Cubes and cube roots are cooler than squares, square are cooler than unlike multiplication, multiplication is cooler than addition.
 TODO: Find a representation that handles all three of the above types (and more).
-      I.e. look a n-fold splits from 0 to length n, exhaustively do functions and relations between each group (n X n).
+      I.e. look at n-fold splits from 0 to length n, exhaustively do functions and relations between each group (n X n).
 
 There is lots of exploratory code in other areas in this project, but the important classes are MainRunner and TimeLord.
 
